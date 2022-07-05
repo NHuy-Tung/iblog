@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/58b07d04-7652-44ac-8ece-cf85bb6d5614/resourceGroups/appsvc_linux_centralus/subscriptions/58b07d04-7652-44ac-8ece-cf85bb6d5614/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/iBlogHT",
+    "appService.deploySubpath": "."
+}
